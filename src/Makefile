@@ -20,7 +20,7 @@
 # -DBETA	 	 activate beta/debug stuff
 #---------------------------------------------------------------------- 
 
-EE_BIN = neocd.elf
+EE_BIN = neocd1.elf
 	    
 EE_OBJS =  neocd.o pd4990a.o \
 	   cpu_68k/cpu68k.o \
